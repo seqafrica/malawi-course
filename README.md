@@ -13,8 +13,38 @@ Home: <https://github.com/seqafrica/malawi-course>
  * Google doc: <https://docs.google.com/document/d/1oN3s6jiw1a7ccOcbP2N_ZHP_qV_GEZgAjZKRn4Mt56M/edit?tab=t.0>
 
 
+## TODO: ONT blog on Nanopore Sequencing, very insightful
+
+<https://nanoporetech.com/blog/how-oxford-nanopore-sequencing-works> has
+very nice animation <https://youtu.be/RcP85JHLmnI>.
 
 
+## TODO: InterpretAMR / AMRgen, AMRrules
+
+<https://github.com/interpretAMR>
+
+**AMRgen**:
+
+AMRgen is an open-source R package designed to bridge the gap between genotypic and phenotypic antimicrobial resistance (AMR) data. Developed as an extension to the AMR R package, it provides tools to interpret AMR genes, integrate these findings with antimicrobial susceptibility test (AST) data, and calculate genotype-phenotype associations.
+
+This package is developed in collaboration with the ESGEM-AMR Working Group and is tailored for researchers and healthcare professionals tackling AMR globally.
+
+Also:
+
+From their github page:
+
+We are partnering with ESGEM, the ESCMID Study Group on Epidemiological Markers, to form an ESGEM-AMR Working Group to curate organism-specific rule sets. Membership of the working group is open to anyone with relevant expertise, you do not have to be an ESGEM member.
+
+If you would like to get involved, please:
+
+    Consider registering to attend one of the intro sessions to find out if this is the group for you:
+
+    Tues 14 May 17:00 UK / 9:00 Seattle / 12:00 Boston
+    Weds 15 May 9:00 UK / 15:00 Hanoi / 18:00 Melbourne
+
+    If you decide you want to join the ESGEM-AMR working group please register your interest, and let us know what organism/s you have expertise in, using this form.
+
+ 
 ## Enterobase
 
 Explore any dataset (for the nine species that Enterobase covers) that is publicly
@@ -30,48 +60,5 @@ Enterobase has GrapeTree built in, but you can also use it standalone.
 
 ## Grapetree
 
-Software to produce a "grape tree" from
+See [grapetree/README.md](grapetree/README.md)
 
- - A newick file (the standard format for phylogenetic trees), or
- - A list of MLST profiles (of any kind: classic, cgMLST, wgMLST, rMLST, ...), or
- - A multiple sequence alignment (FASTA), or
- - Indeed _any table with samples down the rows and attributes across the columns_
-
-A GrapeTree visualises the distances between samples as measured quite simply by
-the number of columns on which they differ (i.e. do not have identical values).
-
-It collapses samples into "grapes" when the samples are identical across the columns,
-or within some chose threshold distance.  The size of each grape represent the number
-of samples in it.
-
-The graph becomes interesting when you colour the grapes with a metadata attribute,
-such as location, collection date, or some predicted phenotype (AMR, serotype, etc).
-
-#### Links:
-
- * Documentation: <https://enterobase.readthedocs.io/en/latest/grapetree/>
- * Repository: <https://github.com/achtman-lab/GrapeTree>
-
-#### Installation:
-
- * Linux: use conda: `conda create -n grapetree -c bioconda grapetree`
- * Windows/Mac: download is available [here](https://github.com/achtman-lab/GrapeTree/releases)
-
-#### Usage:
-
-See the [documentation](https://enterobase.readthedocs.io/en/latest/grapetree/),
-or dive straight in:
-
-@TODO@: add cgMLST and metadata sample here
-@TODO@: add an MSA as well?
-
- 1. Upload a newick tree, MLST profile, or multiple sequence alignment
-   - MLST profile must be TSV, have a header, must start with `#`
-
- 2. Upload a metadata table
-   - Must be TSV, header must _not_ start with `#`
-
-Use the various controls to format it.  Tutorials and tips are available in the
-Enterobase and GrapeTree on-line documentation.
-
-Your work will be stored in a Workspace that you can later reload.
