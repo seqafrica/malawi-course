@@ -14,10 +14,10 @@ Home: <https://github.com/seqafrica/malawi-course>
 
 ## Day 1
 
-Overview of whole genome sequencing (WGS) technologies and their laboratory roles.
-
 Slides
 
+ * [Basic Bioinformatics](https://zwets.it/course/malawi/slides/basic-bioinformatics.pdf)
+ * [BAP Slides](https://zwets.it/course/malawi/slides/bap-slides.pdf)
 
 Links
  
@@ -31,11 +31,27 @@ Exercise links
 
 ## Day 2
 
+Slides
+
+ * Illumina QC slides
+
+Links
+
+ * [Land Rover Sequencing Report](https://zwets.it/course/malawi/landrover/report.pdf)
+
 Exercise links
 
  * [FastQC analysis of MiSeq reads](fastqc/README.md)
 
 ## Day 3
+
+Slides
+
+ * [Bioinformatics Recap](https://zwets.it/course/malawi/slides/basic-recap.pdf)
+
+Links
+
+ * [hAMRonization](https://github.com/pha4ge/hAMRonization)
 
 Exercise links
 
