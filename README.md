@@ -13,7 +13,7 @@ Home: <https://github.com/seqafrica/malawi-course>
 
 Slides
 
- * [Basic Bioinformatics](https://zwets.it/course/malawi/slides/basic-bioinformatics.pdf)
+ * [Bioinformatics Basics](https://zwets.it/course/malawi/slides/bioinformatics-basics.pdf)
  * [BAP Slides](https://zwets.it/course/malawi/slides/bap-slides.pdf)
 
 Links
@@ -44,7 +44,7 @@ Exercise links
 
 Slides
 
- * [Bioinformatics Recap](https://zwets.it/course/malawi/slides/basic-recap.pdf)
+ * [Bioinformatics Recap](https://zwets.it/course/malawi/slides/bioinformatics-recap.pdf)
 
 Links
 
