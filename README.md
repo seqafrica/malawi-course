@@ -16,8 +16,13 @@ Home: <https://github.com/seqafrica/malawi-course>
 
 Overview of whole genome sequencing (WGS) technologies and their laboratory roles.
 
-ONT blog with great explanation of ONT sequencing: <https://nanoporetech.com/blog/how-oxford-nanopore-sequencing-works>,
-which links to this nice animation <https://youtu.be/RcP85JHLmnI>.
+Slides
+
+
+Links
+ 
+ * [Blog explaining ONT sequencing](https://nanoporetech.com/blog/how-oxford-nanopore-sequencing-works)
+ * [Nice animation of ONT sequencing](https://youtu.be/RcP85JHLmnI)
 
 Exercise links
 
@@ -35,11 +40,14 @@ Exercise links
 Exercise links
 
  * [Build your own anything-finder](mydbfinder/README.md)
+ * [AMR detection with online tools](amr/README.md)
 
 ## Day 4
 
-Enterobase Site: <https://enterobase.warwick.ac.uk/>
-Documentation: <https://enterobase.readthedocs.io/en/latest/>
+Links
+
+ * Enterobase <https://enterobase.warwick.ac.uk/>
+ * Enterobase documentation: <https://enterobase.readthedocs.io/en/latest/>
 
 Exercise links
 

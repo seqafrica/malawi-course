@@ -15,8 +15,8 @@ database `16S_ribosomal_RNA`.
 
 > The NCBI 16S database currently has 26954 sequence and a size
 > of about 40MB.  This is not a large volume to search, but we do
-> not want to tax the CGE services and use an extract that has our
-> "usual suspects".
+> not want to tax the CGE services, so we use a subsample that has
+> the "usual suspects".
 
 The "16S selection" is [here](https://zwets.it/course/malawi/mydbfinder/16S_selection.fna).
 
@@ -33,4 +33,13 @@ In the **Other** section you now find _three_ "My\*Finders":
 
 Try each of these for your isolate (note with MyDbFinder set the coverage
 threshold to its lowest, possibly this is a bug).
+
+Pick one or more of these isolates to try:
+
+ * [isolate01](https://zwets.it/course/malawi/mydbfinder/isolate01.fna.gz)
+ * [isolate02](https://zwets.it/course/malawi/mydbfinder/isolate02.fna.gz)
+ * [isolate03](https://zwets.it/course/malawi/mydbfinder/isolate03.fna.gz)
+ * [isolate04](https://zwets.it/course/malawi/mydbfinder/isolate04.fna.gz)
+ * [isolate05](https://zwets.it/course/malawi/mydbfinder/isolate05.fna.gz)
+ * [isolate06](https://zwets.it/course/malawi/mydbfinder/isolate06.fna.gz)
 
