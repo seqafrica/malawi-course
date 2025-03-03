@@ -1,9 +1,6 @@
 # Malawi Course repo
 
-Repository to hold notes, files and links for the Malawi training.
-
-Currently private but we will make this public so participants can download files,
-find links, reread instructions, etc.
+Repository to hold notes, files and links for the Malawi training (March 2025).
 
 Home: <https://github.com/seqafrica/malawi-course>
 
