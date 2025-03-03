@@ -64,7 +64,7 @@ What did I discover?  You find out, and explain:
  - What lesson can we learn from this?
 
 The assemblies are here:
- * [mystery01.fna.gz](https://zwets.it/course/material/mystery/mystery01.fna.gz)
- * [mystery02.fna.gz](https://zwets.it/course/material/mystery/mystery02.fna.gz)
- * [mystery03.fna.gz](https://zwets.it/course/material/mystery/mystery03.fna.gz)
+ * [mystery01.fna.gz](https://zwets.it/course/malawi/mystery/mystery01.fna.gz)
+ * [mystery02.fna.gz](https://zwets.it/course/malawi/mystery/mystery02.fna.gz)
+ * [mystery03.fna.gz](https://zwets.it/course/malawi/mystery/mystery03.fna.gz)
 
