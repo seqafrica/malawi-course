@@ -18,7 +18,7 @@ database `16S_ribosomal_RNA`.
 > not want to tax the CGE services and use an extract that has our
 > "usual suspects".
 
-The "16S selection" is here: [16S_selection.fna](16S_selection.fna).
+The "16S selection" is [here](https://zwets.it/course/material/16S_selection.fna).
 
 **Instruction:** have a look in this "database", which is just a FASTA
 file, and understand what each entry represents.
