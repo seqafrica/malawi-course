@@ -3,18 +3,18 @@
 Shortly after this was published:
 <https://www.science.org/content/article/strange-tentacled-microbe-may-resemble-ancestor-complex-life>
 
-... detailing the possible missing link between Archaea and Eukariota
+... detailing the possible missing link between Archaea and Eukaryota  
 ... three apparent Asgard Archaea showed up in a run!
 
-The Asgard Archaea have more genes in common with eukariotes than other
+The Asgard Archaea have more genes in common with eukaryotes than other
 archaea and exhibit structural features (tentacles, bubbles) like them.
 
 When three samples showed up in a bacterial run that matched nothing
 known to our bacterial pipeline, I checked them against the GTDB-TK:
 <https://gtdb.ecogenomic.org/>.
 
-GTDB is a highly accurate typology, based on ANI on a conserved set of 120(?)
-proteins, of 107,000 bacteria and 12,000 archaea species.
+GTDB is a highly accurate taxonomy of 107,000 bacteria and 12,000 archaea,
+produced by clustering genomes on ANI across a set of conserved proteins.
 
 Bingo?!
 
