@@ -1,6 +1,6 @@
-# Malawi Course repo
+# Malawi Training 4-7 March 2025
 
-Repository to hold notes, files and links for the Malawi training (March 2025).
+Repository to hold notes, files and links for the Malawi training
 
 Home: <https://github.com/seqafrica/malawi-course>
 
