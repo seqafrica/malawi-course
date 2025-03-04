@@ -30,14 +30,17 @@ Exercise links
 
 Slides
 
- * Illumina QC slides
+ * [Illumina Reads QC](https://zwets.it/course/malawi/slides/illumina-reads-qc.pdf)
+ * [FastQC Puzzles](https://zwets.it/course/malawi/slides/fastqc-puzzles.pdf)
 
 Links
 
+ * [Illumina Sequencing by Synthesis video](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
  * [Land Rover Sequencing Report](https://zwets.it/course/malawi/landrover/report.pdf)
 
 Exercise links
 
+ * (Optional: for command-line experimenters) [Installing WSL and EPI2ME on Windows](https://zwets.it/course/malawi/epi2me/windows-epi2me-install.pdf)
  * [FastQC analysis of MiSeq reads](fastqc/README.md)
 
 ## Day 3
