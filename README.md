@@ -42,6 +42,7 @@ Exercise links
 
  * (Optional: for command-line experimenters) [Installing WSL and EPI2ME on Windows](https://zwets.it/course/malawi/epi2me/windows-epi2me-install.pdf)
  * [FastQC analysis of MiSeq reads](fastqc/README.md)
+ * [Interpret QC analysis of Malawi data](qc-mw-data/README.md)
 
 ## Day 3
 
