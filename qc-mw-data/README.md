@@ -2,9 +2,9 @@
 
 Here are the MultiQC reports for the first NICD run of CG isolates:
 
- - [Reads QC _before_ trimming](https://zwets.it/course/malawi/qc-mw-data/01-pre)
- - [Reads QC _after_ trimming](https://zwets.it/course/malawi/qc-mw-data/02-post)
- - [Assembly QC](https://zwets.it/course/malawi/qc-mw-data/03-asm)
+ - [Reads QC _before_ trimming](https://zwets.it/course/malawi/qc-mw-data/01-pre/index.html)
+ - [Reads QC _after_ trimming](https://zwets.it/course/malawi/qc-mw-data/02-post/index.html)
+ - [Assembly QC](https://zwets.it/course/malawi/qc-mw-data/03-asm/index.html)
 
 > MultiQC integrates the output of other QC tools, such as FastQC
 > and Quast in an "interactive" HTML document.
