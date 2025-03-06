@@ -13,11 +13,12 @@ Home: <https://github.com/seqafrica/malawi-course>
 
 Slides
 
+ * [Day 1 Slides](https://zwets.it/course/malawi/slides/SeqAfrica_Malawi_training_2025_DAY1.pdf)
  * [Bioinformatics Basics](https://zwets.it/course/malawi/slides/bioinformatics-basics.pdf)
  * [BAP Slides](https://zwets.it/course/malawi/slides/bap-slides.pdf)
 
 Links
- 
+
  * [Blog explaining ONT sequencing](https://nanoporetech.com/blog/how-oxford-nanopore-sequencing-works)
  * [Nice animation of ONT sequencing](https://youtu.be/RcP85JHLmnI)
 
@@ -30,6 +31,7 @@ Exercise links
 
 Slides
 
+ * [Day 2 Slides](https://zwets.it/course/malawi/slides/SeqAfrica_Malawi_training_2025_DAY2.pdf)
  * [Illumina Reads QC](https://zwets.it/course/malawi/slides/illumina-reads-qc.pdf)
  * [FastQC Puzzles](https://zwets.it/course/malawi/slides/fastqc-puzzles.pdf)
 
@@ -48,11 +50,12 @@ Exercise links
 
 Slides
 
+ * [Day 3 Slides](https://zwets.it/course/malawi/slides/SeqAfrica_Malawi_training_2025_DAY3.pdf)
  * [Bioinformatics Recap](https://zwets.it/course/malawi/slides/bioinformatics-recap.pdf)
 
 Links
 
- * [hAMRonization](https://github.com/pha4ge/hAMRonization)
+ * [hAMRonization](https://github.com/pha4ge/hAMRonization) and [hAMRonization_workflow](https://github.com/pha4ge/hAMRonization_workflow)
 
 Exercise links
 
@@ -61,12 +64,17 @@ Exercise links
 
 ## Day 4
 
+Slides
+
+ * _Day 4 Slides (TO BE ADDED)_
+
 Links
 
- * Enterobase <https://enterobase.warwick.ac.uk/>
- * Enterobase documentation: <https://enterobase.readthedocs.io/en/latest/>
+ * [Enterobase](https://enterobase.warwick.ac.uk/) and [documentation](https://enterobase.readthedocs.io/en/latest) and [the paper](https://www.biorxiv.org/content/10.1101/613554v3)
+ * [On-line Grapetree](https://achtman-lab.github.io/GrapeTree/MSTree_holder.html) and [off-line installation instructions](grapetree/README.md)
+ * Grapetree "Agona" demo data: [cgMLST](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree_Agona.profile) and [metadata](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree.Agona.meta.tsv)
 
-Exercise links
+Exercise
 
- * [Grapetree](grapetree/README.md)
+ * _Simulation Exercise (TO BE ADDED)_
 
