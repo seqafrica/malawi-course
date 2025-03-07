@@ -84,5 +84,5 @@ Phylogenetics Tutorials
  
 Exercise
 
- * Will be distributed on USB stick
+ * Data will be distributed on USB stick; discussion of results is [here](https://zwets.it/course/malawi/slides/SeqAfrica_Malawi_training_2025_DAY4_simex_results.pdf)
 
