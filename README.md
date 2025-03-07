@@ -75,7 +75,14 @@ Links
  * [On-line Grapetree](https://achtman-lab.github.io/GrapeTree/MSTree_holder.html) and [off-line installation instructions](grapetree/README.md)
  * Grapetree "Agona" demo data: [cgMLST](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree_Agona.profile) and [metadata](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree.Agona.meta.tsv)
 
+Phylogenetics Tutorials
+
+ * [SSI GenEpi practical](https://github.com/ssi-dk/GenEpi-BioTrain_Virtual_Training_7/blob/main/practicals_s2_phylo.md)
+ * [BEAST basics](https://beast.community/first_tutorial)
+ * [Timetree tutorials](https://treetime.readthedocs.io/en/latest/tutorials/timetree.html)
+ * [IQ-TREE](http://www.iqtree.org/doc/Dating)
+ 
 Exercise
 
- * _Simulation Exercise (TO BE ADDED)_
+ * Will be distributed on USB stick
 
