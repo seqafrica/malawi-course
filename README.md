@@ -15,7 +15,8 @@ Slides
 
  * [Day 1 Slides](https://zwets.it/course/malawi/slides/SeqAfrica_Malawi_training_2025_DAY1.pdf)
  * [Bioinformatics Basics](https://zwets.it/course/malawi/slides/bioinformatics-basics.pdf)
- * [BAP Slides](https://zwets.it/course/malawi/slides/bap-slides.pdf)
+ * [BAP Slides](https://zwets.it/course/malawi/slides/bap-slides.pdf) and [BAP repository](https://github.com/zwets/cge-bap)
+
 
 Links
 
