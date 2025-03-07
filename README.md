@@ -67,7 +67,7 @@ Exercise links
 
 Slides
 
- * _Day 4 Slides (TO BE ADDED)_
+ * [Day 4 Slides](https://zwets.it/course/malawi/slides/SeqAfrica_Malawi_training_2025_DAY4.pdf)
 
 Links
 
